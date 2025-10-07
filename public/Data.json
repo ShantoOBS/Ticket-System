@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "Customer reported issue with login. The system rejects valid credentials and keeps redirecting back to the login page.",
+    "customer": "Alice",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-20 "
+  },
+  {
+    "id": 2,
+    "title": "Payment failed",
+    "description": "Payment gateway is not processing requests. Multiple attempts result in transaction errors and users cannot complete purchases.",
+    "customer": "Bob",
+    "priority": "HIGH PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-18 "
+  },
+  {
+    "id": 3,
+    "title": "Error 404 on dashboard",
+    "description": "Dashboard page shows 404 error. Users cannot access their statistics or reports after logging in.",
+    "customer": "Charlie",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Resolved",
+    "createdAt": "2025-09-15 "
+  },
+  {
+    "id": 4,
+    "title": "App crashing on start",
+    "description": "App crashes immediately on launch. The splash screen loads but then the app closes without any error message.",
+    "customer": "David",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-10 "
+  },
+  {
+    "id": 5,
+    "title": "Slow website loading",
+    "description": "Website takes too long to load. Average response time is over 12 seconds, causing poor user experience.",
+    "customer": "Eva",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-09-08 "
+  },
+  {
+    "id": 6,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requested dark mode feature. They want the option to switch themes for better readability at night.",
+    "customer": "Frank",
+    "priority": "LOW PRIORITY",
+    "status": "Closed",
+    "createdAt": "2025-09-05 "
+  },
+  {
+    "id": 7,
+    "title": "Email not received",
+    "description": "Verification email not received. Users cannot activate their accounts or reset their passwords.",
+    "customer": "Grace",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-09-03 "
+  },
+  {
+    "id": 8,
+    "title": "Bug in profile update",
+    "description": "Profile update leads to unexpected error. Users lose their entered details after submitting the form.",
+    "customer": "Helen",
+    "priority": "HIGH PRIORITY",
+    "status": "Resolved",
+    "createdAt": "2025-09-01 "
+  },
+  {
+    "id": 9,
+    "title": "Invoice not generated",
+    "description": "Invoice is missing after purchase. Customers are unable to download or receive invoices via email.",
+    "customer": "Ivy",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-08-29 "
+  },
+  {
+    "id": 10,
+    "title": "Notification not working",
+    "description": "No notifications are shown on app. Users are missing important updates about new messages and alerts.",
+    "customer": "Jack",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Closed",
+    "createdAt": "2025-08-27 "
+  },
+  {
+    "id": 11,
+    "title": "Search not returning results",
+    "description": "Search query returns empty results. Even valid keywords fail to fetch any data from the system.",
+    "customer": "Alice",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "2025-08-25 "
+  },
+  {
+    "id": 12,
+    "title": "Database connection error",
+    "description": "Database connection timeout error. Application cannot fetch records and certain pages remain blank.",
+    "customer": "Bob",
+    "priority": "HIGH PRIORITY",
+    "status": "In Progress",
+    "createdAt": "2025-08-22 "
+  }
+]
