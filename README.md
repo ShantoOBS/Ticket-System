@@ -98,10 +98,10 @@
 <h2>🚀 How to Run Locally</h2>
 <ol>
   <li>Clone the repository:</li>
-  <pre><code>git clone https://github.com/your-username/customer-support-zone.git</code></pre>
+  <pre><code>git clone https://github.com/ShantoOBS/Ticket-System.gitcode></pre>
 
   <li>Navigate to the project folder:</li>
-  <pre><code>cd customer-support-zone</code></pre>
+  <pre><code>cd Ticket-System</code></pre>
 
   <li>Install dependencies:</li>
   <pre><code>npm install</code></pre>
@@ -122,5 +122,4 @@
 
 <p>
   🔗 <a href="https://github.com/ShantoOBS" target="_blank">GitHub Profile</a><br>
-  💼 <a href="https://your-portfolio-link.com/" target="_blank">Portfolio</a>
 </p>
